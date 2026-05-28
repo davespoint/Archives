@@ -12,3 +12,5 @@ Fire Alarm Install. 18 May 2026.
 Alteration. 20 May 2026.
 
 Environment test. 21 May 2026.
+
+Expansion. 28 May 2026.
